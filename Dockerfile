@@ -17,4 +17,4 @@ ENV NODE_ENV=production
 EXPOSE 3000
 
 # Default command
-CMD ["node", "index.js"]
+CMD ["node", "src/index.js"]
